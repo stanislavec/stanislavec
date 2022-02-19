@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Stanislavec-0072b1?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/stanislavec/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Stanislavec-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/stanislavec/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@stanislavec-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/stanislavec "Contact on Telegram")
 
 
