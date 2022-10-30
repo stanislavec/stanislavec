@@ -6,7 +6,9 @@
 
 📍 Moscow, Russia
 
-💻 Development engineer at [Gazprombank](https://www.gazprombank.ru/), previously Frontend developer at [Ponominalu](https://ponominalu.ru/)
+💻 Lead Development Engineer at [Gazprombank](https://www.gazprombank.ru/), previously Frontend developer at [Ponominalu](https://ponominalu.ru/)
+
+❤️ Focusing on Javascript/Typescript. Following DRY & KISS.
 
 📙 Bachelor's and Master's degree at [Moscow State University](https://www.msu.ru/)
 
