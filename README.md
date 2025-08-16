@@ -10,4 +10,4 @@ Lead Dev Engineer at [Gazprombank](https://www.gazprombank.ru/)
 
 Frontend developer at [Ponominalu](https://ponominalu.ru/)
 
-📙 Bachelor's and Master's degree at [Moscow State University](https://www.msu.ru/)
+### 📙 Bachelor's and Master's degree at [Moscow State University](https://www.msu.ru/)
